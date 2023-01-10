@@ -6,4 +6,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amylim328&show_icons=true&theme=dark)
   
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+  
 </div>
