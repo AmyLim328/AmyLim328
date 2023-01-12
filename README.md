@@ -1,5 +1,4 @@
 
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Amy%20Lim&fontSize=90&animation=twinkling)
 
 ## :computer: Skills
@@ -12,14 +11,12 @@
 - 정보처리기사 Engineer Information Processing (2022.11)
 
 ## :page_facing_up: Latest Blog Posts 
-
+[test2](https://amylim.tistory.com/97) <br/>
 [230110](https://amylim.tistory.com/91) <br/>
 [230109 개발자로서 첫 출근](https://amylim.tistory.com/90) <br/>
 [221125 정보처리기사 실기 합격](https://amylim.tistory.com/89) <br/>
 [221013 정보처리기사 실기 D-3](https://amylim.tistory.com/88) <br/>
 [221012 정보처리기사 실기 D-4](https://amylim.tistory.com/87) <br/>
-[221011 정보처리기사 실기 D-5](https://amylim.tistory.com/86) <br/>
-
 
 ## :bar_chart: Stats
 <div align="center">
@@ -32,4 +29,3 @@
 | :-----------------------------------------------------------------------------------------------------------------------: |
   
 </div> 
-
