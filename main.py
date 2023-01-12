@@ -14,7 +14,6 @@ for idx, feed in enumerate(RSS_FEED['entries']):
         blog_post += f"[{feed['title']}]({feed['link']}) <br/>\n"
         
 readme_top = """
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Amy%20Lim&fontSize=90&animation=twinkling)
 
 ## :computer: Skills
@@ -27,11 +26,9 @@ readme_top = """
 - 정보처리기사 Engineer Information Processing (2022.11)
 
 ## :page_facing_up: Latest Blog Posts 
-
 """
 
 readme_bottom = """
-
 ## :bar_chart: Stats
 <div align="center">
   
@@ -43,7 +40,6 @@ readme_bottom = """
 | :-----------------------------------------------------------------------------------------------------------------------: |
   
 </div> 
-
 """
 
 readme_result = f"{readme_top}{blog_post}{readme_bottom}"
