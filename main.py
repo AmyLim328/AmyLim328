@@ -34,9 +34,9 @@ readme_bottom = """
   
 |                                                       Solved.ac                                                        |                                                             Languages                                                              |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
-| [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=amylim32897)](https://solved.ac/amylim32897) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amylim328&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+| [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=amylim32897)](https://solved.ac/amylim32897) | [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amylim328&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-| ![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=amylim328&show_icons=true&theme=dark) |
+| ![Amy's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amylim328&show_icons=true&theme=dark) |
 | :-----------------------------------------------------------------------------------------------------------------------: |
   
 </div> 
