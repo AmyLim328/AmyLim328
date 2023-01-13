@@ -11,21 +11,21 @@
 - 정보처리기사 Engineer Information Processing (2022.11)
 
 ## :page_facing_up: Latest Blog Posts 
-[test2](https://amylim.tistory.com/97) <br/>
-[230110](https://amylim.tistory.com/91) <br/>
 [230109 개발자로서 첫 출근](https://amylim.tistory.com/90) <br/>
 [221125 정보처리기사 실기 합격](https://amylim.tistory.com/89) <br/>
 [221013 정보처리기사 실기 D-3](https://amylim.tistory.com/88) <br/>
 [221012 정보처리기사 실기 D-4](https://amylim.tistory.com/87) <br/>
+[221011 정보처리기사 실기 D-5](https://amylim.tistory.com/86) <br/>
+[221010 정보처리기사 실기 D-6](https://amylim.tistory.com/85) <br/>
 
 ## :bar_chart: Stats
 <div align="center">
   
 |                                                       Solved.ac                                                        |                                                             Languages                                                              |
 | :--------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
-| [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=amylim32897)](https://solved.ac/amylim32897) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amylim328&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+| [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=amylim32897)](https://solved.ac/amylim32897) | [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=amylim328&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-| ![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=amylim328&show_icons=true&theme=dark) |
+| ![Amy's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=amylim328&show_icons=true&theme=dark) |
 | :-----------------------------------------------------------------------------------------------------------------------: |
   
 </div> 
