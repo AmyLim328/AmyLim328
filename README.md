@@ -11,12 +11,12 @@
 - 정보처리기사 Engineer Information Processing (2022.11)
 
 ## :page_facing_up: Latest Blog Posts 
+[티스토리 블로그 게시하면 깃허브 커밋되도록 하는 방법](https://amylim.tistory.com/98) <br/>
 [230109 개발자로서 첫 출근](https://amylim.tistory.com/90) <br/>
 [221125 정보처리기사 실기 합격](https://amylim.tistory.com/89) <br/>
 [221013 정보처리기사 실기 D-3](https://amylim.tistory.com/88) <br/>
 [221012 정보처리기사 실기 D-4](https://amylim.tistory.com/87) <br/>
 [221011 정보처리기사 실기 D-5](https://amylim.tistory.com/86) <br/>
-[221010 정보처리기사 실기 D-6](https://amylim.tistory.com/85) <br/>
 
 ## :bar_chart: Stats
 <div align="center">
